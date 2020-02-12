@@ -1,0 +1,5 @@
+Zettel.io will provide a solution as to how to manage notes, papers and slips without regard to the tool or editor used to create them. It is a set of repositories, both public and private, that stores and indexes content and does so with the lowest barrier to entry.
+
+One source of notes would be tweets, but only tweets, retweeted tweets or quoted tweets which @zettel.io. These would be public and viewable by anyone just as is any tweet. Retweets and quoted tweets will only be accepted if the referring tweet has content of its own. DMs to @zettel.io will be completely private to the sender, neither the metadata nor the content or its existence will be exposed.
+
+No government or public service body will be excluded, none will be explicitly excluded from public content. Any private content, including DMs, will be stored separately and individually encrypted for each creator. No other individual or organisation, whether government or public service or not will be given access to private content. 
